@@ -1,0 +1,32 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "use gulp and webpack ",
+  "main": "index.js",
+  "author": "chengxh",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.10.1",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-debug": "^3.1.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "html-loader": "^0.4.4",
+    "jquery": "^3.1.1",
+    "url-loader": "^0.5.7",
+    "vinyl-named": "^1.1.0",
+    "vue": "^2.0.7",
+    "vue-loader": "^9.9.5",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.0.3",
+    "webpack": "^1.13.3",
+    "webpack-stream": "^3.2.0"
+  }
+}
